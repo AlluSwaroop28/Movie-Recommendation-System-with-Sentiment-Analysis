@@ -8,7 +8,9 @@
 # Team Members
 
 Allu Jyothi Swaroop     (2110030209)
+
 Rajampeta Satya Sai     (2110030256)
+
 Gutta Sri Vardhan Reddy (2110030217)
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
