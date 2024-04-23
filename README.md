@@ -13,6 +13,14 @@ Rajampeta Satya Sai     (2110030256)
 
 Gutta Sri Vardhan Reddy (2110030217)
 
+P. Manish Kumar         (2110030405)
+
+G. Vamshi               (2110030370)
+
+Tejas Reddy Bijjam      (2110030431)
+
+B. Sri Chaitanya        (2110030421)
+
 
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
